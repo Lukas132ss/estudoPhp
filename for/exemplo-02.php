@@ -1,0 +1,10 @@
+<?php
+/*
+        EXEMPLO DE LOOP INFINITO
+for ($i = 0; $i < 10; $i--) {
+
+    echo $i."<br>";
+
+}
+        NÃO FAÇA ISSO!
+*/
